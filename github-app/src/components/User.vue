@@ -1,6 +1,6 @@
 <template>
 <div>
-    <div>
+    <div> 
         <md-table md-card>
             <md-table-toolbar>
                 <h1 class="md-title">Users</h1>
